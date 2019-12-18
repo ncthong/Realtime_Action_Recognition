@@ -27,7 +27,7 @@ Thành viên thực hiện: ĐỖ QUANG PHÁP - 17CE - Khoa CNTT và Truyền Th
 ## Kết quả 
  - ***actions detection***
 <p align="center">
-    <img src="https://github.com/ncthong/Action_recognition/blob/master/test_out/sp.png", width="540">
+    <img src="https://github.com/ncthong/Realtime_Action_Re/test_out/sp.png", width="540">
  
  - ***work surveilence***
 <p align="center">
