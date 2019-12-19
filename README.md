@@ -1,7 +1,7 @@
 # Bài cuối kỳ - Hệ thống nhận dạng hành động
 Một dự án nhận dạng hành động trực tuyến thời gian thực dựa trên bộ xương, phân loại và nhận dạng dựa trên các khớp nối, có thể được sử dụng để theo dõi an toàn .. 
 
-Thành viên thực hiện: ĐỖ QUANG PHÁP - 17CE - Khoa CNTT và Truyền Thông
+Thành viên thực hiện: ĐỖ QUANG PHÁP - 17CE - Khoa CNTT và Truyền Thông \n
                       NGUYỄN CẢNH THÔNG 17CE - Khoa CNTT và Truyền Thông
 
 
